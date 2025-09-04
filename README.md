@@ -1,5 +1,5 @@
 # DRS
-instance sets for Real-Time Sequencing Problem for Aircraft Recovery on Carriers
+instance sets for Real-Time Sequencing Problem for Aircraft Recovery
 
 "_D_" represents a dynamic scenario, include _Bolter_ 
 
