@@ -1,5 +1,5 @@
 # DRS
-instance sets for 《_Real-Time Sequencing Problem for Aircraft Recovery on Carriers: A Safe Deep Reinforcement Learning Approach_》
+instance sets for Real-Time Sequencing Problem for Aircraft Recovery on Carriers
 
 "_D_" represents a dynamic scenario, include _Bolter_ 
 
